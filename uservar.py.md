@@ -1,0 +1,1 @@
+This file tells the wizard where to find the supplied [[Wizard Text Files]], among other customizations.
