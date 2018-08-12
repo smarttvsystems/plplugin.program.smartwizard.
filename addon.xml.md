@@ -1,0 +1,1 @@
+This file tells Kodi information about the wizard.
