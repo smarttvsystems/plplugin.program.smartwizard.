@@ -18,6 +18,7 @@ For adding builds, simply add the following section for each build:
 | minor | The minor version number for incrmental updates (THIS IS CURRENTLY NON-FUNCTIONAL) |
 | gui | A url that points to a 'quisettings.xml' file for the build |
 | kodi | The Kodi version number that the build is compatible with |
+| theme | A url that points to a 'themes.txt' file for this build |
 | icon | The icon to be shown in Kodi. This must be a 512x512 pixel '.png' file. Use "http://" for the default icon. |
 | fanart | The fanart to be shown in Kodi. This must be a 512x512 pixel '.png' file. Use "http://" for the default fanart. |
 | preview  | A url that points to a YouTube video to use as a build preview |
