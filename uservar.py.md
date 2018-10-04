@@ -17,7 +17,7 @@ Editing other fields besides these listed *will likely break your wizard*.
 | ADDONFILE | A url that points to an `addons.txt` file. |
 | ADVANCEDFILE | A url that points to an `advanced.txt` file. |
 
-For icons used in the wizard, you'll only need to make sure the filenames are correct:
+For icons used in the wizard, you'll only need to make sure the filenames are correct. If you aren;t using a particular icon, simply set the filed to `'http://'`.
 
 | Section | Filename |
 | ----- | ----------- |
