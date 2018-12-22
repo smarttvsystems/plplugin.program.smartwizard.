@@ -9,15 +9,15 @@ Editing other fields besides these listed *will likely break your wizard*.
 | EXCLUDES | A list of add-ons that will be ignored by normal wizard operations |
 | CACHETEXT | Whether or not to "cache" the specified text files. Can be either `'Yes'` or `'No'`. |
 | CACHEAGE | How long to cache text files, in days. |
-| BUILDFILE | A url that points to a `builds.txt` file. |
+| BUILDFILE | A url that points to a `builds.txt` file. To ignore this field, set it to `'http://'`. |
 | UPDATECHECK | How often to check for wizard updates, in days. Setting this to `0` will check on every startup. |
-| APKFILE | A url that points to an `apks.txt` file. |
+| APKFILE | A url that points to an `apks.txt` file. To ignore this field, set it to `'http://'`. |
 | YOUTUBETITLE | The title of the YouTube section in the wizard. |
-| YOUTUBEFILE | A url that points to a `youtube.txt` file. |
-| ADDONFILE | A url that points to an `addons.txt` file. |
-| ADVANCEDFILE | A url that points to an `advanced.txt` file. |
+| YOUTUBEFILE | A url that points to a `youtube.txt` file. To ignore this field, set it to `'http://'`. |
+| ADDONFILE | A url that points to an `addons.txt` file. To ignore this field, set it to `'http://'`. |
+| ADVANCEDFILE | A url that points to an `advanced.txt` file. To ignore this field, set it to `'http://'`. |
 
-For icons used in the wizard, you'll only need to make sure the filenames are correct. If you aren;t using a particular icon, simply set the filed to `'http://'`.
+For icons used in the wizard, you'll only need to make sure the filenames are correct. If you aren't using a particular icon, simply set the field to `'http://'`.
 
 | Section | Filename |
 | ----- | ----------- |
