@@ -1,4 +1,4 @@
-This file is used to supply your wizard with builds to install, as well as being responsible for auto-updating your wizard if there is no repository.
+This file is used to supply your wizard with builds to install, as well as being responsible for auto-updating your wizard if there is no repository, and is typically named `builds.txt`.
 
 If there is no repository, and auto-updating is desired, the beginning of the file must contain the following three fields:
 
