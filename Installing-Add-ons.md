@@ -1,4 +1,4 @@
-This file is used to provide the wizard the necessary information to install external add-ons, and is typically named `addons.xml`.
+This file is used to provide the wizard the necessary information to install external add-ons, and is typically named `addons.txt`.
 
 The fields in this file are all required.
 
