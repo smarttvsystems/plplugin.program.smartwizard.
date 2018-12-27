@@ -1,3 +1,5 @@
+#addons.txt
+
 This file is used to provide the wizard the necessary information to install external add-ons.
 
 The fields in this file are all required.
