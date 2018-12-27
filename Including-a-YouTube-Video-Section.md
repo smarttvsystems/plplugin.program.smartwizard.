@@ -2,19 +2,19 @@ This file is used to provide the wizard the necessary information to show a menu
 
 Example `youtube.txt`:
 ```
-name="Video 1"
+name="Example Video"
 section="no"
 url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 icon="http://"
 fanart="http://"
-description="The first video that will be shown."
+description="An example video."
 
-name="Section 1"
+name="Example Section"
 section="yes"
 url="url.to.textfile"
 icon="http://"
 fanart="http://"
-description="This shows a new section."
+description="An example section."
 ```
 
 The fields in this file are all required.
