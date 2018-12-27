@@ -1,4 +1,4 @@
-This file tells the wizard where to find the supplied Wizard Text Files, among other customizations.
+This file tells the wizard where to find the supplied [[Wizard Text Files]], among other customizations.
 
 Editing other fields besides these listed *will likely break your wizard*.
 
