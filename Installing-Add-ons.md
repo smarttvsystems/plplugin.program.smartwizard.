@@ -24,7 +24,7 @@ fanart="http://"
 adult="no"
 description="The official Spotify add-on."
 
-name="Section 1"
+name="Example Section"
 plugin="section"
 url="url.to.textfile"
 repository="none"
@@ -33,7 +33,7 @@ repositoryurl="http://"
 icon="http://"
 fanart="http://"
 adult="no"
-description="A new section."
+description="An example section."
 ```
 
 The fields in this file are all required.
