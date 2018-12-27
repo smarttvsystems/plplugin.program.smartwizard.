@@ -4,7 +4,7 @@
 
 [[uservar.py]]
 
-Wizard Text Files
+[[Wizard Text Files]]
 * [[Installing Add-ons]]
 * [[Packaging advancedsettings.xml Files]]
 * [[Installing .apk's]]
