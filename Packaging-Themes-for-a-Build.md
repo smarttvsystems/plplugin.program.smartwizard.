@@ -1,4 +1,4 @@
-This file is used to provide available themes to a build.
+This file is used to provide available themes to a build, and is typically named `themes.txt`.
 
 The fields in this file are all required.
 
