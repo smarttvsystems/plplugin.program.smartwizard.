@@ -6,7 +6,7 @@
 
 Wizard Text Files
 * [Installing Add-ons](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/addons.txt)
-* [Packaging advancedsettings.xml files](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/advanced.txt)
+* [Packaging advancedsettings.xml Files](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/advanced.txt)
 * [Installing .apk's](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/apks.txt)
 * [Installing Builds](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/builds.txt)
 * [Update Notifications](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/notify.txt)
