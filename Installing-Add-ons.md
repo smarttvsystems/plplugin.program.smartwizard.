@@ -5,8 +5,8 @@ The fields in this file are all required.
 | Field | Description |
 | ----- | ----------- |
 | name  | The name that will show in the wizard |
-| plugin | The plugin id of the add-on to install. Use 'section' to have this item open a new section. |
-| url | A url that points to the folder containing the zipped add-on. If plugin='section', then this should be a url that points to a *different* addons.txt file for the section. |
+| plugin | The plugin id of the add-on to install. Use `'section'` to have this item open a new section. |
+| url | A url that points to the folder containing the zipped add-on. If plugin=`'section'`, then this should be a url that points to a *different* addons.txt file for the section. |
 | repository | The plugin id of the repository to install from |
 | repositoryxml | A url that points to the 'addons.xml' file for the repository |
 | respositoryurl | A url that points to the folder containing the zipped repository |
