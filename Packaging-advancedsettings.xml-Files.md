@@ -1,5 +1,22 @@
 This file is used to provide the wizard the necessary information to install preconfigured 'advancedsettings.xml' files, and is typically named `advanced.txt`.
 
+Example `advanced.txt`:
+```
+name="Example advancedsettings.xml"
+section="no"
+url="url.to.advancedsettings"
+icon="http://"
+fanart="http://"
+description="An example advancedsettings.xml."
+
+name="Example section"
+section="yes"
+url="url.to.textfile"
+icon="http://"
+fanart="http://"
+description="An example section."
+```
+
 The fields in this file are all required.
 
 | Field | Description |
