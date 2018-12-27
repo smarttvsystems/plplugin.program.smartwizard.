@@ -1,0 +1,1 @@
+https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/addons.xml
