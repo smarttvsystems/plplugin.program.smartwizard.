@@ -1,4 +1,4 @@
-This file is used to provide the wizard the necessary information to show a menu of YouTube videos.
+This file is used to provide the wizard the necessary information to show a menu of YouTube videos, and is typically named `youtube.txt`.
 
 The fields in this file are all required.
 
