@@ -1,8 +1,8 @@
-[Home](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/Home)
+[[Home]]
 
-[addon.xml](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/addon.xml)
+[[addon.xml]]
 
-[uservar.py](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/uservar.py)
+[[uservar.py]]
 
 Wizard Text Files
 * [Installing Add-ons](https://www.github.com/drinfernoo/plugin.program.aftermath/wiki/addons.txt)
