@@ -1,5 +1,14 @@
 This file is used to provide available themes to a build, and is typically named `themes.txt`.
 
+Example `themes.txt`:
+```
+name="Example Theme"
+url="url.to.theme"
+icon="http://"
+fanart="http://"
+description="A short description of the theme."
+```
+
 The fields in this file are all required.
 
 | Field | Description |
