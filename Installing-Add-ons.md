@@ -11,5 +11,6 @@ The fields in this file are all required.
 | repositoryxml | A url that points to the `'addons.xml'` file for the repository |
 | respositoryurl | A url that points to the folder containing the zipped repository |
 | icon | The icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default icon. |
-| fanart | The fanart to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default fanart. | adult | Whether this add-on is an adult add-on. Must be either '"yes"' or '"no"'.
+| fanart | The fanart to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default fanart. |
+| adult | Whether this add-on is an adult add-on. Must be either '"yes"' or '"no"'. |
 | description | A short description of the add-on |
