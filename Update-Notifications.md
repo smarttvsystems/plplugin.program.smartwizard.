@@ -1,4 +1,4 @@
-This file is used to notify when new builds, or other changes, are available.
+This file is used to notify when new builds, or other changes, are available, and is typically named `notify.txt`.
 
 This file is formatted differently than the rest:
 
