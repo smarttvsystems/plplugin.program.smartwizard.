@@ -1,4 +1,4 @@
-This file is used to provide the wizard the necessary information to install preconfigured 'advancedsettings.xml' files, and is typically named `advanced.xml`.
+This file is used to provide the wizard the necessary information to install preconfigured 'advancedsettings.xml' files, and is typically named `advanced.txt`.
 
 The fields in this file are all required.
 
