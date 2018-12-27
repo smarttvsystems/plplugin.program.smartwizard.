@@ -10,3 +10,20 @@ The fields in this file are all required.
 | icon | The icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default icon. |
 | fanart | The fanart to be shown in Kodi. This must be a 1920x1080 pixel (or similar ratio) `.jpg` file. Use `"http://"` for the default fanart. |
 | description | A short description of the video |
+
+Example:
+```
+name="Video 1"
+section="no"
+url="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+icon="http://"
+fanart="http://"
+description="The first video that will be shown."
+
+name="Section 1"
+section="yes"
+url="url.to.textfile"
+icon="http://"
+fanart="http://"
+description="This shows a new section."
+```
