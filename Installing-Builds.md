@@ -1,5 +1,40 @@
 This file is used to supply your wizard with builds to install, as well as being responsible for auto-updating your wizard if there is no repository, and is typically named `builds.txt`.
 
+Example `builds.txt`:
+```
+id="plugin.program.aftermath"
+version="0.4.5"
+zip="url.to.wizard"
+
+name="Example Build 1"
+version="1.0"
+url="url.to.build"
+minor=""
+gui="url.to.guisettings"
+kodi="17.6"
+theme="url.to.themes"
+icon="http://"
+fanart="http://"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+adult="no"
+info="url.to.info"
+description="A short description of the build."
+
+name="Example Build 2"
+version="1.0"
+url="url.to.build"
+minor=""
+gui="url.to.guisettings"
+kodi="18.0"
+theme="url.to.themes"
+icon="http://"
+fanart="http://"
+preview="https://www.youtube.com/watch?v=L_jWHffIx5E"
+adult="no"
+info="url.to.info"
+description="A short description of the build."
+```
+
 If there is no repository, and auto-updating is desired, the beginning of the file must contain the following three fields:
 
 | Field | Description |
