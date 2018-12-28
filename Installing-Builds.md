@@ -49,14 +49,14 @@ For adding builds, simply add the following section for each build:
 | ----- | ----------- |
 | name  | The name that will show in the wizard |
 | version | The version of the build |
-| url | A url that points to the build `.zip` |
+| url | A URL that points to the build `.zip` |
 | minor | The minor version number for incremental updates (THIS IS CURRENTLY NON-FUNCTIONAL) |
-| gui | A url that points to a `quisettings.xml` file for the build |
+| gui | A URL that points to a `quisettings.xml` file for the build |
 | kodi | The Kodi version number that the build is compatible with |
-| theme | A url that points to a `themes.txt` file for this build |
-| icon | The icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default icon. |
-| fanart | The fanart to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default fanart. |
-| preview  | A url that points to a YouTube video to use as a build preview |
-| adult | Whether this add-on is an adult add-on. Must be either `"yes"` or `"no"`. |
-| info | A url that points to an info text file about the build. This file is generated *by* the wizard when creating a build. |
+| theme | A URL that points to a `themes.txt` file for this build |
+| icon | A URL to an icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default icon. |
+| fanart | A URL to the fanart to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default fanart. |
+| preview  | A URL that points to a YouTube video to use as a build preview |
+| adult | Whether this build contains adult content. Must be either `"yes"` or `"no"`. |
+| info | A URL that points to an info text file about the build. This file is generated *by* the wizard when creating a build. |
 | description | A short description of the build |
