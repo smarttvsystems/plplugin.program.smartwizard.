@@ -1,7 +1,7 @@
 The `addon.xml` file is [used by Kodi to get information about an add-on](https://kodi.wiki/view/Addon.xml), in this case, your wizard. There are a number of fields that can be changed inside, but only a couple are really necessary to make your wizard unique.
 
 Example `addon.xml`:
-```
+```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.program.aftermath" name="[B][COLOR dodgerblue]Aftermath[/COLOR][/B] Wizard" version="0.4.2" provider-name="drinfernoo">
   <requires>
