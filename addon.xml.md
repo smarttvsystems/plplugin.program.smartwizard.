@@ -20,6 +20,7 @@ Example `addon.xml`:
 ```
 
 | Tag | Subtag | Description |
+| --- | ------ | ----------- |
 | `addon` | `id` | Your wizard's plugin id to be used by Kodi |
 | | `name` | The name that will be displayed inside of Kodi |
 | | `version` | Your wizard's version number |
