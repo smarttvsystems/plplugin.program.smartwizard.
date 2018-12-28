@@ -19,6 +19,8 @@ Example `addon.xml`:
 </addon>
 ```
 
+Editing other fields besides these listed will *likely break your wizard*.
+
 | Tag | Parameter | Description |
 | --- | ------ | ----------- |
 | `addon` | `id` | Your wizard's plugin id to be used by Kodi |
