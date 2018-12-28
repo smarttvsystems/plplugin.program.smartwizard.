@@ -23,7 +23,7 @@ The fields in this file are all required.
 | ----- | ----------- |
 | name  | The name that will show in the wizard |
 | section | Whether this should open a separate section. Must be `"yes"` or `"no"`. |
-| url | A url that points to an `advancedsettings.xml` file |
+| url | A URL that points to an `advancedsettings.xml` file |
 | icon | A URL to an icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default icon. |
 | fanart | A URL to the fanart to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default fanart. |
 | description | A short description of the file |
