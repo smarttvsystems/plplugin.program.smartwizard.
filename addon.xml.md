@@ -19,7 +19,7 @@ Example `addon.xml`:
 </addon>
 ```
 
-| Tag | Subtag | Description |
+| Tag | Parameter | Description |
 | --- | ------ | ----------- |
 | `addon` | `id` | Your wizard's plugin id to be used by Kodi |
 | | `name` | The name that will be displayed inside of Kodi |
