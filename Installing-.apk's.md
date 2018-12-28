@@ -28,5 +28,5 @@ The fields in this file are all required.
 | url | A url that points to an `.apk` file. If section=`"yes"`, then this should be a url to another `apk.txt` file. |
 | icon | A URL to an icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default icon. |
 | fanart | A URL to the fanart to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default fanart. |
-| adult | Whether this '.apk' is adult. Must be `"yes"` or `"no"` |
+| adult | Whether this '.apk' had adult content. Must be `"yes"` or `"no"` |
 | description | A short description of the `.apk` |
