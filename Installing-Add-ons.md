@@ -1,40 +1,7 @@
 This file is used to provide the wizard the necessary information to install external add-ons, and is typically named `addons.txt`.
 
 Example `addons.xml`:
-```
-name="YouTube w/o Repository"
-plugin="plugin.video.youtube"
-url="http://mirrors.kodi.tv/addons/leia/plugin.video.youtube/plugin.video.youtube-6.2.3.zip"
-repository="none"
-repositoryxml="http://"
-repositoryurl="http://"
-icon="http://"
-fanart="http://"
-adult="no"
-description="The official YouTube add-on."
-
-name="Spotify w/ Repository"
-plugin="plugin.audio.spotify"
-url="https://marcelveldt.github.io/repository.marcelveldt/plugin.audio.spotify/"
-repository="repository.marcelveldt"
-repositoryxml="https://raw.githubusercontent.com/marcelveldt/repository.marcelveldt/master/addons.xml"
-repositoryurl="https://marcelveldt.github.io/repository.marcelveldt/repository.marcelveldt/"
-icon="http://"
-fanart="http://"
-adult="no"
-description="The official Spotify add-on."
-
-name="Example Section"
-plugin="section"
-url="url.to.textfile"
-repository="none"
-repositoryxml="http://"
-repositoryurl="http://"
-icon="http://"
-fanart="http://"
-adult="no"
-description="An example section."
-```
+https://github.com/drinfernoo/plugin.program.aftermath/blob/9a752a35cdbb28083b903b24207cc100efeacbb2/resources/text/addons.txt#L1-L21
 
 The fields in this file are all required.
 
