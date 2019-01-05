@@ -8,6 +8,7 @@ zip="url.to.wizard"
 
 name="Example Build 1"
 version="1.0"
+minor=""
 url="url.to.build"
 gui="url.to.guisettings"
 kodi="17.6"
@@ -21,6 +22,7 @@ description="A short description of the build."
 
 name="Example Build 2"
 version="1.0"
+minor=""
 url="url.to.build"
 gui="url.to.guisettings"
 kodi="18.0"
@@ -47,6 +49,7 @@ For adding builds, simply add the following section for each build:
 | ----- | ----------- |
 | name  | The name that will show in the wizard |
 | version | The version of the build |
+| minor | A number used to indicate that this is a minor update, not requiring a fresh install. This feature is currently **disabled** in the wizard. |
 | url | A URL that points to the build `.zip` |
 | gui | A URL that points to a `quisettings.xml` file for the build |
 | kodi | The Kodi version number that the build is compatible with |
