@@ -58,5 +58,5 @@ For adding builds, simply add the following section for each build:
 | fanart | A URL to the fanart to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default fanart. |
 | preview  | A URL that points to a YouTube video to use as a build preview |
 | adult | Whether this build contains adult content. Must be either `"yes"` or `"no"`. |
-| info | A URL that points to an info text file about the build. This file is generated *by* the wizard when creating a build. |
+| info | A URL that points to a detailed info text file about the build. This file is generated *by* the wizard when creating a build. If this tag is left as `"http://"`, the wizard will still be able to show a condensed version of information about the build. |
 | description | A short description of the build |
