@@ -50,7 +50,7 @@ For adding builds, simply add the following section for each build:
 | name  | The name that will show in the wizard |
 | version | The version of the build |
 | url | A URL that points to the build `.zip` |
-| minor | A number used to indicate that this is a minor update, not requiring a fresh install. This feature is currently **disabled** in the wizard. |
+| minor | A URL that points to a minor update `.zip`, not requiring a fresh install. This feature is currently **disabled** in the wizard. |
 | gui | A URL that points to a `quisettings.xml` file for the build |
 | kodi | The Kodi version number that the build is compatible with |
 | theme | A URL that points to a `themes.txt` file for this build |
