@@ -1,5 +1,7 @@
 This file is used to supply your wizard with builds to install, as well as being responsible for auto-updating your wizard if there is no repository, and is typically named `builds.txt`.
 
+## The fields in this file are all required, and removing any of them will **break** your wizard.
+
 Example `builds.txt`:
 ```
 id="plugin.program.aftermath"
