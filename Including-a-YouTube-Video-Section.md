@@ -1,5 +1,7 @@
 This file is used to provide the wizard the necessary information to show a menu of YouTube videos, and is typically named `youtube.txt`.
 
+## The fields in this file are all required, and removing any of them will **break** your wizard.
+
 Example `youtube.txt`:
 ```
 name="Example Video"
@@ -16,8 +18,6 @@ icon="http://"
 fanart="http://"
 description="An example section."
 ```
-
-The fields in this file are all required.
 
 | Field | Description |
 | ----- | ----------- |
