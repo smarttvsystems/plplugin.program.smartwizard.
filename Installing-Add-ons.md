@@ -1,5 +1,7 @@
 This file is used to provide the wizard the necessary information to install external add-ons, and is typically named `addons.txt`.
 
+## The fields in this file are all required, and removing any of them will **break** your wizard.
+
 Example `addons.xml`:
 ```
 name="YouTube w/o Repository"
@@ -35,8 +37,6 @@ fanart="http://"
 adult="no"
 description="An example section."
 ```
-
-The fields in this file are all required.
 
 | Field | Description |
 | ----- | ----------- |
