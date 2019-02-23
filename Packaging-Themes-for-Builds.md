@@ -1,5 +1,7 @@
 This file is used to provide available themes to a build, and is typically named `themes.txt`.
 
+## The fields in this file are all required, and removing any of them will **break** your wizard.
+
 Example `themes.txt`:
 ```
 name="Example Theme"
@@ -8,8 +10,6 @@ icon="http://"
 fanart="http://"
 description="A short description of the theme."
 ```
-
-The fields in this file are all required.
 
 | Field | Description |
 | ----- | ----------- |
