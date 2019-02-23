@@ -1,5 +1,7 @@
 This file is used to provide the wizard the necessary information to install preconfigured 'advancedsettings.xml' files, and is typically named `advanced.txt`.
 
+## The fields in this file are all required, and removing any of them will **break** your wizard.
+
 Example `advanced.txt`:
 ```
 name="Example advancedsettings.xml"
@@ -16,8 +18,6 @@ icon="http://"
 fanart="http://"
 description="An example section."
 ```
-
-The fields in this file are all required.
 
 | Field | Description |
 | ----- | ----------- |
