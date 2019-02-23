@@ -2,6 +2,8 @@
 
 This file is used to provide the wizard the necessary information to install external `.apk` files, and is typically named `apks.txt`. The wizard already comes with built in scrapers for the latest Kodi (stable *and* unstable) builds. The APK Installer menu is only shown if running on an Android device or when in developer mode.
 
+## The fields in this file are all required, and removing any of them will **break** your wizard.
+
 Example `apks.txt`:
 ```
 name="Example APK"
@@ -20,8 +22,6 @@ fanart="http://"
 adult="no"
 description="An example section."
 ```
-
-The fields in this file are all required.
 
 | Field | Description |
 | ----- | ----------- |
