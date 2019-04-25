@@ -5,7 +5,7 @@ This file is used to supply your wizard with builds to install, as well as being
 Example `builds.txt`:
 ```
 id="plugin.program.aftermath"
-version="0.4.5"
+version="0.5.0"
 zip="url.to.wizard"
 
 name="Example Build 1"
