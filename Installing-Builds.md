@@ -4,8 +4,8 @@ This file is used to supply your wizard with builds to install, as well as being
 
 Example `builds.txt`:
 ```
-id="plugin.program.aftermath"
-version="0.5.0"
+id="plugin.program.openwizard"
+version="1.0.0"
 zip="url.to.wizard"
 
 name="Example Build 1"
