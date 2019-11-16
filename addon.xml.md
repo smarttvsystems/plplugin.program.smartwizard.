@@ -3,7 +3,7 @@ The `addon.xml` file is [used by Kodi to get information about an add-on](https:
 Example `addon.xml`:
 ```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.aftermath" name="[B][COLOR dodgerblue]Aftermath[/COLOR][/B] Wizard" version="0.4.2" provider-name="drinfernoo">
+<addon id="plugin.program.openwizard" name="[COLOR limegreen][B]Open[/B][/COLOR]Wizard" version="1.0.0" provider-name="drinfernoo">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -12,8 +12,8 @@ Example `addon.xml`:
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR dodgerblue]Aftermath[/COLOR][/B] Wizard</summary>
-    <description lang="en">[B][COLOR dodgerblue]Aftermath[/COLOR][/B] Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+    <summary lang="en">[COLOR limegreen][B]Open[/B][/COLOR]Wizard</summary>
+    <description lang="en">[COLOR limegreen][B]Open[/B][/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
     <platform>all</platform>
   </extension>
 </addon>
