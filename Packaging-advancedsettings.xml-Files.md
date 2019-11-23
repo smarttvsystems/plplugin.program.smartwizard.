@@ -33,3 +33,5 @@ The `name` and `url` tags here are the only ones which are **required**. Any oth
 | icon | A URL to an icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. If omitted, the wizard will use `maintenance.png`. |
 | fanart | A URL to the fanart to be shown in Kodi. This must be a 1920x1080 pixel file of any format. If omitted, the wizard will use `fanart.png`. |
 | description | A short description of the file |
+
+As of OpenWizard 1.1.0, this file has been converted from the "old" plaintext solution, to the "new" JSON format, which makes them far more flexible, but more syntactically oriented. To verify that your JSON files are formatted correctly, I recommend https://jsoneditoronline.org/.
