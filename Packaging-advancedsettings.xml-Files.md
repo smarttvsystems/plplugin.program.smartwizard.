@@ -28,7 +28,7 @@ The `name` and `url` tags here are the only ones which are **required**. Any oth
 | Field | Description |
 | ----- | ----------- |
 | name  | The name that will show in the wizard |
-| section | Whether this should open a separate section. Must be `true` or `false`. |
+| section | This can be either `true` or `false`. If `true`, this entry will open a new section in the wizard. |
 | url | A URL that points to an `advancedsettings.xml` file. If `"section": true`, then this URL should point to a *different* `advanced.json` file. |
 | icon | A URL to an icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. If omitted, the wizard will use `maintenance.png`. |
 | fanart | A URL to the fanart to be shown in Kodi. This must be a 1920x1080 pixel file of any format. If omitted, the wizard will use `fanart.png`. |
