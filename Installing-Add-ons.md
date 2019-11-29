@@ -14,7 +14,6 @@ Example `addons.json`:
       "repositoryxml": "",
       "repositoryurl": "",
       "icon": "",
-      "adult": "",
       "adult": false,
       "description": "The official YouTube add-on."
     },
@@ -28,7 +27,6 @@ Example `addons.json`:
       "repositoryxml": "https://raw.githubusercontent.com/kodi-community-addons/repository.marcelveldt/master/addons.xml",
       "repositoryurl": "https://kodi-community-addons.github.io/repository.marcelveldt/repository.marcelveldt/",
       "icon": "",
-      "adult": "",
       "adult": false,
       "description": "The official Spotify add-on."
     },
