@@ -8,7 +8,7 @@ Example `apks.txt`:
 ```
 name="Example APK"
 section="no"
-url="url.to.apk"
+url="http://your.apk.url"
 icon="http://"
 fanart="http://"
 adult="no"
@@ -16,7 +16,7 @@ description="A short description of the APK."
 
 name="Example Section"
 section="yes"
-url="url.to.textfile"
+url="http://your.apk.file/"
 icon="http://"
 fanart="http://"
 adult="no"
