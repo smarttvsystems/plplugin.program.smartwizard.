@@ -5,7 +5,7 @@ This file is used to provide available themes to a build, and is typically named
 Example `themes.txt`:
 ```
 name="Example Theme"
-url="url.to.theme"
+url="http://your.theme.url/"
 icon="http://"
 fanart="http://"
 description="A short description of the theme."
