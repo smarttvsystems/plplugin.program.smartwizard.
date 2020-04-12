@@ -13,7 +13,7 @@ description="An example video."
 
 name="Example Section"
 section="yes"
-url="url.to.textfile"
+url="http://your.youtube.file/"
 icon="http://"
 fanart="http://"
 description="An example section."
