@@ -8,7 +8,7 @@ Example `apks.txt`:
 ```
 name="Example APK"
 section="no"
-url="http://your.apk.url"
+url="http://your.apk.url/"
 icon="http://"
 fanart="http://"
 adult="no"
