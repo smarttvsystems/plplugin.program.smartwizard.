@@ -8,6 +8,7 @@ name="Example Theme"
 url="http://your.theme.url/"
 icon="http://"
 fanart="http://"
+adult="no"
 description="A short description of the theme."
 ```
 
@@ -17,4 +18,5 @@ description="A short description of the theme."
 | url | A URL that points to a theme `.zip` file. |
 | icon | A URL to an icon to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default icon. |
 | fanart | A URL to the fanart to be shown in Kodi. This must be a 512x512 pixel `.png` file. Use `"http://"` for the default fanart. |
+| adult | Whether this theme contains adult content. Must be either `"yes"` or `"no"`. |
 | description | A short description of the theme |
